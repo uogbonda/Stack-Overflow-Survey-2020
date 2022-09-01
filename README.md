@@ -6,6 +6,7 @@ Analysizing the Stackoverflow Survey
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Images](#images)
 
 ## General info
 Get information from the data set:
@@ -41,4 +42,6 @@ $ python -m pip install <package>
 ´´´
 
 
+## Images
 
+![](Stackflow images/age.png)
