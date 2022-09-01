@@ -26,7 +26,7 @@ Exploring more is best. Using a Data Visualization is important as well.
 
 ## Images
 
-![](Stackflow images/age.png)
+![](Stackflow%20images/age.png)
 
 
 
