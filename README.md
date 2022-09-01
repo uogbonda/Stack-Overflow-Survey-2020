@@ -4,9 +4,8 @@ Analysizing the Stackoverflow Survey
 
 ## Table of Content
 * [General info](#general-info)
-* [Data_Visualization](#data_visualization)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Data_Visualization](#data_visualization)
 
 
 ## General info
@@ -24,6 +23,18 @@ Get information from the data set:
 
 Exploring more is best. Using a Data Visualization is important as well.
 
+## Technologies
+Project performed on:
+* Jupyter Notebook.
+* Python version: 3.8.8
+
+The following are Python libraries used:
+- Pandas
+- Seaborn
+- Matplotlib
+
+
+
 ## Data_Visualization
 
 ![](Stackflow%20images/age.png)
@@ -37,21 +48,7 @@ Exploring more is best. Using a Data Visualization is important as well.
 
 
 
-## Technologies
-Project performed on:
-* Jupyter Notebook.
-* Python version: 3.8.8
 
-The following are Python libraries used:
-- Pandas
-- Seaborn
-- Matplotlib
-
-## Setup
-If there is no python, this can be done by:
-```
-$ python -m pip install <package>
-´´´
 
 
 
