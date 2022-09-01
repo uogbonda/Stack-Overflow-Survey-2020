@@ -4,9 +4,10 @@ Analysizing the Stackoverflow Survey
 
 ## Table of Content
 * [General info](#general-info)
+* [Images](#images)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Images](#images)
+
 
 ## General info
 Get information from the data set:
@@ -22,6 +23,11 @@ Get information from the data set:
 - The first time they coded were mostly at age between "11-17" years mostly; followed by "18-24" years, "5-10" years.
 
 Exploring more is best. Using a Data Visualization is important as well.
+
+## Images
+
+![](Stackflow images/age.png)
+
 
 
 
@@ -42,6 +48,4 @@ $ python -m pip install <package>
 ´´´
 
 
-## Images
 
-![](Stackflow images/age.png)
