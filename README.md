@@ -10,9 +10,9 @@ Analysizing the Stackoverflow Survey
 ## General info
 Get information from the data set:
 
--What kind of information does the survey contain?
--Which variables are particularly interesting to you and why?
--Analyze the salary and how different variables are correlating with it.
+- What kind of information does the survey contain?
+- Which variables are particularly interesting to you and why?
+- Analyze the salary and how different variables are correlating with it.
 
 
 ## Technologies
