@@ -28,6 +28,12 @@ Exploring more is best. Using a Data Visualization is important as well.
 
 ![](Stackflow%20images/age.png)
 
+![](Stackflow%20images/categories.png)
+
+![](Stackflow%20images/first.png)
+
+![](Stackflow%20images/status.png)
+
 
 
 
