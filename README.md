@@ -4,7 +4,7 @@ Analysizing the Stackoverflow Survey
 
 ## Table of Content
 * [General info](#general-info)
-* [Images](#images)
+* [Data_Visualization](#data_visualization)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
@@ -24,7 +24,7 @@ Get information from the data set:
 
 Exploring more is best. Using a Data Visualization is important as well.
 
-## Images
+## Data_Visualization
 
 ![](Stackflow%20images/age.png)
 
